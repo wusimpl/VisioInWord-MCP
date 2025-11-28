@@ -24,7 +24,7 @@
 pip install mcp pywin32
 ```
 
-## 在 Claude Code 中配置
+3. 在 Claude Code 中配置
 
 使用 stdio 传输方式添加本地 MCP 服务器：
 
@@ -34,7 +34,7 @@ claude mcp add --transport stdio word-visio -- python /path/to/word_visio_mcp.py
 
 请将 `/path/to/word_visio_mcp.py` 替换为实际的脚本绝对路径。
 
-如果你使用的客户端不是claude code，请自行搜索你所使用的工具如何添加mcp
+如果你使用的客户端不是claude code，请自行搜索你所使用的客户端如何添加mcp
 
 ## 使用方法
 
