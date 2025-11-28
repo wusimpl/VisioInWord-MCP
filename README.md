@@ -17,6 +17,9 @@
 ## 安装
 
 1. 下载本项目
+```bash
+git clone https://github.com/wusimpl/VisioInWord-MCP.git
+```
 
 2. 安装依赖：
 
