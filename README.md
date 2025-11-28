@@ -7,6 +7,10 @@
 - insert_text: 在 Word 文档光标位置插入纯文本
 - insert_uml_class: 在 Word 文档光标位置插入 UML 类图（通过 Visio 绘制）
 
+## Demo
+
+![Demo](https://github.com/wusimpl/VisioInWord-MCP/raw/main/demo.gif)
+
 ## 系统要求
 
 - Windows 操作系统
@@ -37,7 +41,7 @@ claude mcp add --transport stdio word-visio -- python /path/to/word_visio_mcp.py
 
 请将 `/path/to/word_visio_mcp.py` 替换为实际的脚本绝对路径。
 
-如果你使用的客户端不是claude code，请自行搜索你所使用的客户端如何添加mcp
+>⚠️ 如果你使用的客户端不是claude code，请自行搜索你所使用的客户端如何添加mcp
 
 ## 使用方法
 
