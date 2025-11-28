@@ -34,6 +34,8 @@ claude mcp add --transport stdio word-visio -- python /path/to/word_visio_mcp.py
 
 请将 `/path/to/word_visio_mcp.py` 替换为实际的脚本绝对路径。
 
+如果你使用的客户端不是claude code，请自行搜索你所使用的工具如何添加mcp
+
 ## 使用方法
 
 1. 打开 Microsoft Word 并创建或打开一个文档
